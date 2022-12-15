@@ -1,0 +1,18 @@
+{
+  "name": "ramapriya/bitrix-psr-logger",
+  "description": "PSR Logger for Bitrix event log table",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Roman Gonyukov",
+      "email": "roman@goniukov.ru"
+    }
+  ],
+  "type": "bitrx-d7-module",
+  "require": {
+    "php": "^7.4||^8.0",
+    "psr/log": "^3.0.0",
+    "composer/installers": "~1"
+  }
+}
