@@ -18,5 +18,10 @@
     "allow-plugins": {
       "composer/installers": true
     }
+  },
+  "autoload": {
+    "psr-4": {
+      "Ramapriya\\Psr\\Logger\\": "lib"
+    }
   }
 }

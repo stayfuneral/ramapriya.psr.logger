@@ -3,7 +3,7 @@
 use Bitrix\Main\EventManager;
 use Bitrix\Main\Localization\Loc;
 use Bitrix\Main\ModuleManager;
-use Ramapriya\Psr\Events\EventLogListener;
+use Ramapriya\Psr\Logger\Events\EventLogListener;
 
 Loc::loadMessages(__FILE__);
 

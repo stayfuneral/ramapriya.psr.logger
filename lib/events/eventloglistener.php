@@ -1,6 +1,6 @@
 <?php
 
-namespace Ramapriya\Psr\Events;
+namespace Ramapriya\Psr\Logger\Events;
 
 use Bitrix\Main\Localization\Loc;
 use Ramapriya\Psr\Logger\Interfaces\ModuleInterface;
